@@ -1,6 +1,6 @@
 # blog-docsify
 
-用 docsify 搭建的博客，风格和 Vue 官网类似，[访问博客](https://wenf.top/blog-docsify/)。
+用 [docsify](https://docsify.js.org/#/zh-cn/) 搭建的博客，风格和 Vue 官网类似，[访问博客](https://wenf.top/blog-docsify/)。
 
 ## docsify 优点
 
